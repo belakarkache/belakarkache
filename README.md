@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hey there :wave:
 
-<!--
-**belakarkache/belakarkache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![tumblr_mnklt1Snut1snwdrto1_500](https://user-images.githubusercontent.com/51804898/119067940-89633280-b9b9-11eb-99df-8fb33c18328e.gif)
 
-Here are some ideas to get you started:
+## About me
+:alien: I am a ✨front-end developer✨<br>
+:heart: I'm absolutely in love with what I do <br>
+:earth_americas: I speak Portuguese and English fluently (and confidently :zany_face:)<br>
+:computer: Always aiming to improve clean code practices and optimized user experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ask me about
+```.js``` ```.ts``` ```.html``` ```.css``` ```.scss``` ```.vue```
+## Contact me
+
+isabelakarkache@gmail.com <br>
+[Linkedin](https://www.linkedin.com/in/isabelakarkache/)
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belakarkache&layout=compact)](https://github.com/belakarkache/github-readme-stats)
