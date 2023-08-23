@@ -5,7 +5,6 @@
 ## About me
 :alien: I am a ✨front-end developer✨<br>
 :heart: I'm absolutely in love with what I do <br>
-:earth_americas: I speak Portuguese and English fluently (and confidently :zany_face:)<br>
 :computer: Always aiming to improve clean code practices and optimized user experience
 
 ## Ask me about
