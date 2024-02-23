@@ -14,6 +14,3 @@
 isabelakarkache@gmail.com <br>
 [Linkedin](https://www.linkedin.com/in/isabelakarkache/)
 
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belakarkache&layout=compact)](https://github.com/belakarkache/github-readme-stats)
