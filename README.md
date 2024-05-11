@@ -11,6 +11,6 @@
 ```.js``` ```.ts``` ```.html``` ```.css``` ```.scss``` ```.vue```
 ## Contact me
 
-isabelakarkache@gmail.com <br>
+icka.developer@gmail.com <br>
 [Linkedin](https://www.linkedin.com/in/isabelakarkache/)
 
