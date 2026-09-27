@@ -1,16 +1,19 @@
-## Hey there :wave:
+**Front-end Software Engineer** focused on building scalable, performant and maintainable web applications.
 
-![tumblr_mnklt1Snut1snwdrto1_500](https://user-images.githubusercontent.com/51804898/119067940-89633280-b9b9-11eb-99df-8fb33c18328e.gif)
+### What I work with
+* Front-end architecture and engineering
+* Design systems & reusable components
+* Complex business logic
+* Performance and UX
+* Code reviews & technical mentoring
+* Product-oriented development
 
-## About me
-:alien: I am a ✨front-end developer✨<br>
-:heart: I'm absolutely in love with what I do <br>
-:computer: Always aiming to improve clean code practices and optimized user experience
+### Currently
 
-## Ask me about
-```.js``` ```.ts``` ```.html``` ```.css``` ```.scss``` ```.vue```
+Building web products and exploring **game development, modding, UI/UX and creative frontend experiences**.
+
 ## Contact me
 
 icka.developer@gmail.com <br>
-[Linkedin](https://www.linkedin.com/in/isabelakarkache/)
+[Linkedin](https://www.linkedin.com/in/isabelakarkache/) | [Portfolio](https://icka.dev)
 
